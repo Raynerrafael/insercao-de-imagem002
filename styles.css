@@ -548,8 +548,16 @@ header {
 
     .btn-ver-mais {
         display: inline-block;
-        padding: 0.8rem 2rem;
-        font-size: 0.85rem;
+        padding: 0.9rem 2.4rem;
+        background-color: var(--primary-black);
+        color: var(--white);
+        border-radius: 999px;
+        text-decoration: none;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        font-weight: 600;
+        border: 2px solid var(--primary-black);
+        transition: var(--transition);
         text-align: center;
     }
 
