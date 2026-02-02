@@ -542,6 +542,17 @@ header {
         aspect-ratio: 4 / 3;
     }
 
+    .portfolio-more {
+        margin-top: 2rem;
+    }
+
+    .btn-ver-mais {
+        display: inline-block;
+        padding: 0.8rem 2rem;
+        font-size: 0.85rem;
+        text-align: center;
+    }
+
     .footer-content {
         flex-direction: column;
         gap: 1rem;
